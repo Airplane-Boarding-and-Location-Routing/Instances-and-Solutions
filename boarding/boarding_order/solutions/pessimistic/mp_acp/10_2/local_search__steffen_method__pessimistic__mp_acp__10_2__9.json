@@ -1,0 +1,31 @@
+{
+    "algorithm": "steffen_method", 
+    "computation_time": 0.0026, 
+    "instance": "pessimistic__mp_acp__10_2__9", 
+    "local_search": true, 
+    "objective_value": 228.0, 
+    "pax_order": [
+        11, 
+        13, 
+        8, 
+        1, 
+        2, 
+        0, 
+        15, 
+        19, 
+        18, 
+        10, 
+        7, 
+        14, 
+        12, 
+        6, 
+        16, 
+        3, 
+        5, 
+        4, 
+        17, 
+        9
+    ], 
+    "with_groups": false, 
+    "with_seat_interference": false
+}

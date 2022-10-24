@@ -1,0 +1,32 @@
+{
+    "algorithm": "mip_implicit_position_assignment", 
+    "computation_time": 106.6634, 
+    "dual_bound": 131.2, 
+    "instance": "mp_acp__10_2__7", 
+    "objective_value": 131.2, 
+    "pax_order": [
+        17, 
+        19, 
+        11, 
+        10, 
+        13, 
+        8, 
+        5, 
+        15, 
+        16, 
+        4, 
+        6, 
+        1, 
+        14, 
+        0, 
+        2, 
+        18, 
+        9, 
+        7, 
+        12, 
+        3
+    ], 
+    "time_limit": 7200, 
+    "with_groups": true, 
+    "with_seat_interference": false
+}

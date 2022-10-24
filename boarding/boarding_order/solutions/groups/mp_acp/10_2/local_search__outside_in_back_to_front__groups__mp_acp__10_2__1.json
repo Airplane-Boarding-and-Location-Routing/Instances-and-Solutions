@@ -1,0 +1,31 @@
+{
+    "algorithm": "outside_in_back_to_front", 
+    "computation_time": 0.0083, 
+    "instance": "mp_acp__10_2__1", 
+    "local_search": true, 
+    "objective_value": 227.5, 
+    "pax_order": [
+        17, 
+        6, 
+        18, 
+        1, 
+        5, 
+        19, 
+        8, 
+        15, 
+        3, 
+        16, 
+        2, 
+        7, 
+        10, 
+        0, 
+        14, 
+        4, 
+        9, 
+        11, 
+        13, 
+        12
+    ], 
+    "with_groups": true, 
+    "with_seat_interference": false
+}

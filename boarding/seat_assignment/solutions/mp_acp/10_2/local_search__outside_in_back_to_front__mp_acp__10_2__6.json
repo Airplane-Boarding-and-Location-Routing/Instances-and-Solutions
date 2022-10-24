@@ -1,0 +1,91 @@
+{
+    "algorithm": "outside_in_back_to_front", 
+    "computation_time": 0.0359, 
+    "instance": "mp_acp__10_2__6", 
+    "local_search": true, 
+    "objective_value": 170.4, 
+    "pax_seats": [
+        [
+            1, 
+            0
+        ], 
+        [
+            3, 
+            1
+        ], 
+        [
+            5, 
+            1
+        ], 
+        [
+            0, 
+            1
+        ], 
+        [
+            7, 
+            0
+        ], 
+        [
+            5, 
+            0
+        ], 
+        [
+            8, 
+            0
+        ], 
+        [
+            8, 
+            1
+        ], 
+        [
+            4, 
+            0
+        ], 
+        [
+            0, 
+            0
+        ], 
+        [
+            4, 
+            1
+        ], 
+        [
+            6, 
+            0
+        ], 
+        [
+            3, 
+            0
+        ], 
+        [
+            6, 
+            1
+        ], 
+        [
+            2, 
+            0
+        ], 
+        [
+            9, 
+            1
+        ], 
+        [
+            7, 
+            1
+        ], 
+        [
+            1, 
+            1
+        ], 
+        [
+            2, 
+            1
+        ], 
+        [
+            9, 
+            0
+        ]
+    ], 
+    "with_seat_interference": false, 
+    "with_seat_preference": false
+}

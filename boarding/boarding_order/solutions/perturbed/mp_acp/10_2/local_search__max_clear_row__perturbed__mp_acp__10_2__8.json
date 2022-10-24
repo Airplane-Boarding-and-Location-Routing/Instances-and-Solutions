@@ -1,0 +1,31 @@
+{
+    "algorithm": "max_clear_row", 
+    "computation_time": 0.004, 
+    "instance": "perturbed__mp_acp__10_2__8", 
+    "local_search": true, 
+    "objective_value": 163.2, 
+    "pax_order": [
+        14, 
+        12, 
+        16, 
+        15, 
+        10, 
+        11, 
+        19, 
+        1, 
+        9, 
+        17, 
+        0, 
+        8, 
+        3, 
+        6, 
+        7, 
+        2, 
+        18, 
+        5, 
+        4, 
+        13
+    ], 
+    "with_groups": false, 
+    "with_seat_interference": false
+}

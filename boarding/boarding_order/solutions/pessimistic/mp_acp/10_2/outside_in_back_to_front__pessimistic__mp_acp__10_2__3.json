@@ -1,0 +1,30 @@
+{
+    "algorithm": "outside_in_back_to_front", 
+    "computation_time": 0.0015, 
+    "instance": "pessimistic__mp_acp__10_2__3", 
+    "objective_value": 195.0, 
+    "pax_order": [
+        1, 
+        13, 
+        8, 
+        18, 
+        17, 
+        14, 
+        6, 
+        12, 
+        7, 
+        16, 
+        5, 
+        4, 
+        15, 
+        3, 
+        9, 
+        19, 
+        0, 
+        2, 
+        11, 
+        10
+    ], 
+    "with_groups": false, 
+    "with_seat_interference": false
+}

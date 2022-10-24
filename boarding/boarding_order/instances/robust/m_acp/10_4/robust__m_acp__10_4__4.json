@@ -1,0 +1,16 @@
+{
+    "displaced_passengers": [
+        [
+            25, 
+            4
+        ], 
+        [
+            9, 
+            5
+        ]
+    ], 
+    "late_passengers": [
+        16, 
+        23
+    ]
+}

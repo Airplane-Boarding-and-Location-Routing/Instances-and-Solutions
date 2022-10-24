@@ -1,0 +1,32 @@
+{
+    "algorithm": "mip_predecessor_assignment", 
+    "computation_time": 108.1452, 
+    "dual_bound": 160.9, 
+    "instance": "perturbed__mp_acp__10_2__0", 
+    "objective_value": 160.9, 
+    "pax_order": [
+        0, 
+        5, 
+        8, 
+        16, 
+        18, 
+        3, 
+        14, 
+        10, 
+        19, 
+        2, 
+        15, 
+        11, 
+        7, 
+        4, 
+        12, 
+        1, 
+        6, 
+        13, 
+        9, 
+        17
+    ], 
+    "time_limit": 7200, 
+    "with_groups": false, 
+    "with_seat_interference": false
+}

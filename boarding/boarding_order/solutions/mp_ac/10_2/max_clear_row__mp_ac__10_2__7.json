@@ -1,0 +1,30 @@
+{
+    "algorithm": "max_clear_row", 
+    "computation_time": 0.0006, 
+    "instance": "mp_ac__10_2__7", 
+    "objective_value": 98.0, 
+    "pax_order": [
+        3, 
+        7, 
+        2, 
+        16, 
+        10, 
+        5, 
+        1, 
+        0, 
+        6, 
+        9, 
+        4, 
+        12, 
+        8, 
+        18, 
+        11, 
+        15, 
+        17, 
+        13, 
+        14, 
+        19
+    ], 
+    "with_groups": false, 
+    "with_seat_interference": false
+}

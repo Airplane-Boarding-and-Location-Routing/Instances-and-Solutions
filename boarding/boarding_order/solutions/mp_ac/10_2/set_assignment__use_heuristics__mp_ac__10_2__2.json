@@ -1,0 +1,32 @@
+{
+    "algorithm": "mip_set_assignment", 
+    "computation_time": 69.5494, 
+    "dual_bound": 70.8, 
+    "instance": "mp_ac__10_2__2", 
+    "objective_value": 70.8, 
+    "pax_order": [
+        7, 
+        16, 
+        1, 
+        0, 
+        5, 
+        15, 
+        12, 
+        18, 
+        19, 
+        4, 
+        3, 
+        8, 
+        11, 
+        17, 
+        14, 
+        13, 
+        2, 
+        10, 
+        6, 
+        9
+    ], 
+    "time_limit": 7200, 
+    "with_groups": false, 
+    "with_seat_interference": false
+}

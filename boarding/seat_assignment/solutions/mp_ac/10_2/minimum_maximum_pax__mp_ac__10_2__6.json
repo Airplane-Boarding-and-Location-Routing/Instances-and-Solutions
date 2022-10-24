@@ -1,0 +1,91 @@
+{
+    "algorithm": "MinimumMaximumPax", 
+    "computation_time": 0.0701, 
+    "dual_bound": 37.5, 
+    "instance": "mp_ac__10_2__6", 
+    "objective_value": 37.5, 
+    "pax_seats": [
+        [
+            3, 
+            1
+        ], 
+        [
+            1, 
+            0
+        ], 
+        [
+            6, 
+            0
+        ], 
+        [
+            5, 
+            1
+        ], 
+        [
+            6, 
+            1
+        ], 
+        [
+            9, 
+            0
+        ], 
+        [
+            9, 
+            1
+        ], 
+        [
+            7, 
+            1
+        ], 
+        [
+            8, 
+            1
+        ], 
+        [
+            7, 
+            0
+        ], 
+        [
+            8, 
+            0
+        ], 
+        [
+            0, 
+            1
+        ], 
+        [
+            4, 
+            1
+        ], 
+        [
+            0, 
+            0
+        ], 
+        [
+            1, 
+            1
+        ], 
+        [
+            5, 
+            0
+        ], 
+        [
+            2, 
+            1
+        ], 
+        [
+            2, 
+            0
+        ], 
+        [
+            4, 
+            0
+        ], 
+        [
+            3, 
+            0
+        ]
+    ], 
+    "with_seat_interference": false, 
+    "with_seat_preference": false
+}

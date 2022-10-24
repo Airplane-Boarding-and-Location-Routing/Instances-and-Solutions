@@ -1,0 +1,31 @@
+{
+    "algorithm": "random_shuffle", 
+    "computation_time": 0.1108, 
+    "instance": "perturbed__mp_acp__10_2__2", 
+    "local_search": true, 
+    "objective_value": 151.7, 
+    "pax_order": [
+        2, 
+        9, 
+        10, 
+        19, 
+        0, 
+        8, 
+        5, 
+        15, 
+        11, 
+        13, 
+        18, 
+        16, 
+        17, 
+        14, 
+        12, 
+        7, 
+        1, 
+        6, 
+        3, 
+        4
+    ], 
+    "with_groups": false, 
+    "with_seat_interference": false
+}

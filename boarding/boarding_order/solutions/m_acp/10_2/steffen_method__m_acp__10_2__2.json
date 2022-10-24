@@ -1,0 +1,30 @@
+{
+    "algorithm": "steffen_method", 
+    "computation_time": 0.0006, 
+    "instance": "m_acp__10_2__2", 
+    "objective_value": 164.4, 
+    "pax_order": [
+        11, 
+        16, 
+        9, 
+        15, 
+        3, 
+        5, 
+        1, 
+        8, 
+        4, 
+        10, 
+        12, 
+        17, 
+        19, 
+        0, 
+        18, 
+        6, 
+        7, 
+        13, 
+        2, 
+        14
+    ], 
+    "with_groups": false, 
+    "with_seat_interference": false
+}

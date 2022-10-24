@@ -1,0 +1,90 @@
+{
+    "algorithm": "outside_in_back_to_front", 
+    "computation_time": 0.0052, 
+    "instance": "mp_acp__10_2__2", 
+    "objective_value": 131.6, 
+    "pax_seats": [
+        [
+            0, 
+            1
+        ], 
+        [
+            5, 
+            0
+        ], 
+        [
+            6, 
+            0
+        ], 
+        [
+            3, 
+            0
+        ], 
+        [
+            1, 
+            0
+        ], 
+        [
+            2, 
+            1
+        ], 
+        [
+            7, 
+            0
+        ], 
+        [
+            4, 
+            1
+        ], 
+        [
+            3, 
+            1
+        ], 
+        [
+            5, 
+            1
+        ], 
+        [
+            4, 
+            0
+        ], 
+        [
+            8, 
+            0
+        ], 
+        [
+            2, 
+            0
+        ], 
+        [
+            9, 
+            1
+        ], 
+        [
+            8, 
+            1
+        ], 
+        [
+            0, 
+            0
+        ], 
+        [
+            6, 
+            1
+        ], 
+        [
+            7, 
+            1
+        ], 
+        [
+            1, 
+            1
+        ], 
+        [
+            9, 
+            0
+        ]
+    ], 
+    "with_seat_interference": false, 
+    "with_seat_preference": false
+}
